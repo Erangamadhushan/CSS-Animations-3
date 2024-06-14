@@ -1,0 +1,1 @@
+alert("Welcome to Animation nav bar page !");
